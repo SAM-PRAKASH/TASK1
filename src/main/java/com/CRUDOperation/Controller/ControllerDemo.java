@@ -10,7 +10,7 @@ public class ControllerDemo {
 
 	@GetMapping(value="/getEmp")
 	public String getMethodName() {
-		return "HELLO";
+		return "HELLO ALL";
 	}
 	
 	
